@@ -1,0 +1,14 @@
+Aqui pondre lo que sea que quiera recordar de los dos cursos
+
+Curso HTML:
+
+- Opciones para trabajar las imagenes
+    * Tiny PNG: https://tinypng.com/
+    * Verexif: https://www.verexif.com/
+
+
+
+Curso JavaScript:
+
+- Conceptos: 
+    * Callback: Pasar funciones como argumentos
