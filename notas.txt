@@ -5,7 +5,8 @@ Curso HTML:
 - Opciones para trabajar las imagenes
     * Tiny PNG: https://tinypng.com/
     * Verexif: https://www.verexif.com/
-
+- Página para ver los diferentes type="" en la etiqueta input:
+    * https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/input
 
 
 Curso JavaScript:
